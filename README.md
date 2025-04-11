@@ -1,1 +1,1 @@
-# my-js-game
+обучение freecodecamp.
